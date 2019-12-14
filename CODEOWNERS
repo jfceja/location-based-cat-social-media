@@ -1,0 +1,4 @@
+# These are the people that need to approve a code review for that branch to merge into master.
+
+# For now, anyone can approve any type of code. 2 approvals are required for a pull request.
+* @jfceja @davidbui-cs @annatakei
